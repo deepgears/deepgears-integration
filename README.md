@@ -51,8 +51,8 @@ This image needs to be the last image in the image list on shopify, so deepgears
 The exact atl text to be used for each product will be provided by the DeepGears' team.
 An example of the ‘View in 3D image’ pic can be found below:
 
-<img src="https://user-images.githubusercontent.com/60765482/169601793-95158f47-d068-4733-aa08-adcf9f480347.jpg" width="100" height="100" />
-
+<img src="https://user-images.githubusercontent.com/78560064/176232835-8c2e6cb6-c439-405d-a8a9-855bb57f3dba.png" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/78560064/176232602-3054b776-16ce-4ef7-9509-ba0f61ccc3c4.png" width="100" height="100" />
 
 ## 4.	Add the following tag in the html body
 
