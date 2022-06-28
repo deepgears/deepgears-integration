@@ -5,7 +5,7 @@
 ```
 <script defer="defer"
         src="`S3_main.js`"></script>
-    <link href="`S3_main.js`"
+    <link href="***S3_main.js***"
         rel="stylesheet">
 ```
 `S3_main.js` and `S3_main.js` will be provided by DeepGears's team
