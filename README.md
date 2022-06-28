@@ -4,11 +4,11 @@
 
 ```
 <script defer="defer"
-        src="S3_main.js"></script>
-    <link href="S3_main.js"
+        src="S3_main-js_URI"></script>
+    <link href="S3_main-css_URI"
         rel="stylesheet">
 ```
-The corresponding `S3_main.js` and `S3_main.js` will be provided by DeepGears's team
+The corresponding `S3_main-js_URI` and `S3_main-css_URI` will be provided by DeepGears's team
 
 ## 2.	Add the following to your html head 
 
