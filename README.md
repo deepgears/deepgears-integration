@@ -52,7 +52,7 @@ The exact atl text to be used for each product will be provided by the DeepGears
 An example of the ‘View in 3D image’ pic can be found below:
 
 <img src="https://user-images.githubusercontent.com/78560064/176232835-8c2e6cb6-c439-405d-a8a9-855bb57f3dba.png" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/78560064/176232602-3054b776-16ce-4ef7-9509-ba0f61ccc3c4.png" width="796" height="540" />
+<img src="https://user-images.githubusercontent.com/78560064/176233488-05e5fb2a-a1f6-4410-b14b-65b95377eeb2.png" width="808" height="551" />
 
 ## 4.	Add the following tag in the html body
 
